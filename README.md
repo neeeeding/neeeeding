@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neeeding)](https://solved.acP2/neeeding)
 
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/neeeeding-225593?style=plastic&logo=Awesomelists&logoColor=ffffff"/></a>
 
