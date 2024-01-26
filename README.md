@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving&text=w%20e%20l%20c%20o%20m%20e...&animation=twinkling&color=gradient&height=420&fontSize=100&colorA=FAD961&colorB=3225593)
+
+# 안녕하십니까. 정예은 입니다.
 
 <!--
 **neeeeding/neeeeding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/neeeeding-225593?style=plastic&logo=Awesomelists&logoColor=ffffff"/></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeeeding&show_icons=true&theme=radical)
+
+![Alt text](/path/to/img.jpg)
+![](ultra-detailed-nebula-abstract-wallpaper-4-2.jpg)
