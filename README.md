@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=w%20e%20l%20c%20o%20m%20e...&animation=twinkling&color=gradient&height=420&fontSize=100&colorA=FAD961&colorB=3225593)
 
-# 안녕하십니까. 정예은 입니다.😊
+# 안녕하십니까. 정예은 입니다.😎
 
 <!--
 **neeeeding/neeeeding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
