@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/neeeeding-225593?style=plastic&logo=Awesomelists&logoColor=ffffff"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neeeeding&show_icons=true&theme=radical)
 
-![Alt text](/path/to/img.jpg)
-![](ultra-detailed-nebula-abstract-wallpaper-4-2.jpg)
+
